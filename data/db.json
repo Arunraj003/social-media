@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "1st post",
+      "dateTime": "July 02, 2020 12:48 AM",
+      "body": "sample body"
+    },
+    {
+      "id": "2",
+      "title": "2nd post",
+      "dateTime": "July 02, 2020 12:48 AM",
+      "body": "sample body"
+    },
+    {
+      "id": "4",
+      "title": "4th post",
+      "datetime": "August 03, 2024 8:32:43 PM",
+      "body": "This is the checking section from my main page and it was useful to edit and managable"
+    }
+  ]
+}
