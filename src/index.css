@@ -205,11 +205,10 @@ body {
   cursor: pointer;
 }
 
-.Missing h2,
-.PostPage h2,
 .Missing p,
-.PostPage p {
-  margin-bottom: 1rem;
+.PostPage p,
+.NewPost p {
+  margin-top: 1rem;
 }
 
 .PostPage button {
@@ -217,19 +216,18 @@ body {
   min-width: 48px;
   border-radius: 0.25rem;
   padding: 0.5rem;
+  margin-right: 0.5rem;
   font-size: 1rem;
   color: #fff;
   cursor: pointer;
-  margin: 0.5rem;
 }
 
 .deleteButton {
   background-color: red;
-  margin-left: 20px;
 }
 
 .editButton {
-  background-color: gray;
+  background-color: #333;
 }
 
 .statusMsg {
@@ -281,7 +279,6 @@ body {
 @media only screen and (min-width: 992px) {
 
   .Header svg {
-    font-size: 1rem;
+    font-size: 3rem;
   }
-
 }
